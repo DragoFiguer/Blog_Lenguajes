@@ -35,6 +35,10 @@ function mostrar_buscador(){
     }
 }
 
+// Ejecucion mediante teclas
+
+
+
 // Funcion ocultar buscador
 function ocultar_buscador(){
     bars_search.style.top = "-10px";
